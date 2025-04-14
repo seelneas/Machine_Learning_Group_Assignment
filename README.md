@@ -4,11 +4,11 @@ This repository contains two Machine Learning Group Projects.
 
 # ML Regression Problem
 
-Stock Price Prediction 
+# Stock Price Prediction 
 
 This project demonstrates how to predict stock prices using machine learning techniques in Python. The model is trained on historical stock data and can be used to forecast future prices.
 
-Regression Models
+# Regression Models
 
 - Linear Regression 
 
@@ -18,11 +18,11 @@ Regression Models
 
 # ML Classification Problem
 
-Email Spam Detection 
+# Email Spam Detection 
 
 This project implements a simple email spam detection system using Classifiers in Python. The model is trained on spam dataset and uses basic text feature extraction to classify messages as spam or not spam (ham).
 
-Classification Models
+# Classification Models
 
 - Decision Tree
 
